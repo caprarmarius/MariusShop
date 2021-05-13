@@ -11,7 +11,7 @@ import java.util.List;
 @RestController
 @RequiredArgsConstructor
 @RequestMapping(value = "/orders")
-@CrossOrigin(origins = "https://mariushop-frontend.web.app/")
+@CrossOrigin(origins = "https://mariushop-frontend.web.app")
 //@CrossOrigin(origins = "http://localhost:4200")
 public class OrderController {
 
