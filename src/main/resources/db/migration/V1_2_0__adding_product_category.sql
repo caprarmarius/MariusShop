@@ -1,0 +1,13 @@
+insert into category (product_category_id, description, name) values (1, 'Venereal disease NEC', 'Laptops');
+insert into category (product_category_id, description, name) values (2, 'Disloc metacarpophaln-cl', 'Accessories');
+insert into category (product_category_id, description, name) values (3, 'Simple microphthalmos', 'Flat Screen Monitors');
+insert into category (product_category_id, description, name) values (4, 'Carbuncle of trunk', 'Printers');
+insert into category (product_category_id, description, name) values (5, 'Dislocation jaw-closed', 'Multifunction Printers');
+insert into category (product_category_id, description, name) values (6, 'Soft tissue disorder NEC', 'Mice');
+insert into category (product_category_id, description, name) values (7, 'Open wound of palate', 'Keyboards');
+insert into category (product_category_id, description, name) values (8, 'Inf mcrg rstn oth drg ml', 'Mousepads');
+insert into category (product_category_id, description, name) values (9, 'Abn ftl hrt rate/rhy-uns', 'Computer System Accessories');
+insert into category (product_category_id, description, name) values (10, 'Opn brain lac-brief coma', 'Graphic Cards');
+insert into category (product_category_id, description, name) values (11, 'Opn brain lac-brief coma', 'Scanners');
+insert into category (product_category_id, description, name) values (12, 'Opn brain lac-brief coma', 'Speakers');
+insert into category (product_category_id, description, name) values (13, 'Opn brain lac-brief coma', 'Software');
